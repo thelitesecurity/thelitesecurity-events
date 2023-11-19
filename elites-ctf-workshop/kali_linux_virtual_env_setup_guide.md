@@ -1,3 +1,5 @@
+<img src="https://www.geekrar.com/wp-content/uploads/2021/11/1200x675VB_Kali.jpg" />
+
 # Setting Up a Virtual Environment in Kali Linux
 
 Welcome to today's workshop! Let's start by setting up your virtual environment in Kali Linux.
