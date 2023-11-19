@@ -45,7 +45,7 @@ Use the 7z program to unzip our Kali Linux image:
 Open the directory containing the image:
 
 ```bash
-cd kali-linux-2023.3-virtualbox-amd64
+open kali-linux-2023.3-virtualbox-amd64
 ```
 
 Double click on the file named `kali-linux-2023.3-virtualbox-amd64.vdi` to configure the VirtualBox image.
