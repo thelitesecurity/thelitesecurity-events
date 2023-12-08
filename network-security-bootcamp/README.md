@@ -37,7 +37,7 @@ This repository contains resources and guides for a Network Security Bootcamp fo
 - Advanced techniques in traffic capturing.
 - Filtering and sorting captured packets.
 - Using display filters and capture filters effectively.
-- Analyzing encrypted traffic and handling secure protocols.
+- Solving Networking CTF challenges.
 
 ### Chapter 6: Network Communications Security with Cryptography Fundamentals
 
