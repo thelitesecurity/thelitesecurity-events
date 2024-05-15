@@ -37,7 +37,7 @@ tar -xvf 7z2301-linux-x64.tar.xz
 Use the 7z program to unzip our Kali Linux image:
 
 ```bash
-./7zz x kali-linux-2023.3-virtualbox-amd64.7z
+./7zz x kali-linux-2024.1-hyperv-amd64.7z
 ```
 
 ### Access Kali Linux Image
