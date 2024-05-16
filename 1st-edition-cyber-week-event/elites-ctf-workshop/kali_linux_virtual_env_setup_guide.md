@@ -15,7 +15,7 @@ cd ~/goinfre
 Now, download the Kali Linux virtualbox image using wget:
 
 ```bash
-wget https://kali.download/base-images/kali-2024.1/kali-linux-2024.1-hyperv-amd64.7z
+wget https://kali.download/base-images/kali-linux-2024.1-virtualbox-amd64.7z
 ```
 
 ### Download and Unzip 7z Program
