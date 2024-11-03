@@ -15,7 +15,7 @@ cd ~/goinfre
 Now, download the Kali Linux virtualbox image using wget:
 
 ```bash
-wget https://kali.download/base-images/kali-2024.3/kali-linux-2024.3-hyperv-amd64.7z
+wget https://kali.download/base-images/kali-2024.3/kali-linux-2024.3-virtualbox-amd64.7z
 ```
 
 ### Download and Unzip 7z Program
@@ -37,7 +37,7 @@ tar -xvf 7z2301-linux-x64.tar.xz
 Use the 7z program to unzip our Kali Linux image:
 
 ```bash
-./7zz x kali-linux-2024.3-hyperv-amd64.7z
+./7zz x kali-linux-2024.3-virtualbox-amd64.7z
 ```
 
 ### Access Kali Linux Image
@@ -45,7 +45,7 @@ Use the 7z program to unzip our Kali Linux image:
 Open the directory containing the image:
 
 ```bash
-open kali-linux-2023.3-virtualbox-amd64
+open kali-linux-2024.3-virtualbox-amd64
 ```
 
 Double click on the file named `kali-linux-2023.3-virtualbox-amd64.vdi` to configure the VirtualBox image.
